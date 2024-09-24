@@ -22,8 +22,6 @@ Clone the repository, create a virtual environment , install Reflex and run to a
 
 ## Setup
 
-Principalmente puedes configurar el contenido y el aspecto gráfico del sitio web.
-
 Mainly, you can configure the content and the graphical appearance of the website.
 
 * Content: Edit the [data.json](./assets/data/data.json) file with your portfolio information.
