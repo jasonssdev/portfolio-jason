@@ -1,108 +1,229 @@
 {
-    "title": "Thomas A. Anderson (Neo) | Portafolio",
-    "description": "Soy Neo, posiblemente el mejor programador de la historia.",
+    "title": "Jason Sepúlveda | Data Portfolio",
+    "description": "I am Jason, Data Analyst and Business Professional",
     "image": "/avatar.jpg",
     "avatar": "/avatar.jpg",
-    "name": "Thomas A. Anderson (Neo)",
-    "skill": "Programador, hacker y el Elegido",
-    "location": "Matrix y el mundo real",
+    "name": "Jason Sepúlveda",
+    "skill": "Data Analyst | Business Intelligence | Project Manager",
+    "location": "Chilean in Panama",
     "media": {
-        "email": "neo@metacortex.com",
+        "email": "jasonssdev@gmail.com",
         "cv": "/data/cv.pdf",
-        "github": "https://github.com/thomasanderson",
-        "likedin": "https://linkedin.com/in/thomasanderson"
+        "github": "https://github.com/jasonssdev",
+        "likedin": "https://www.linkedin.com/in/jasonsepulvedas/"
     },
-    "about": "Soy un programador inquieto con una doble vida, ya que trabajo en una prestigiosa empresa de software pero también he cometido todos los crímenes informáticos que existen. Tengo la sensación de que nada es lo que parece ser.",
+    "about": "A business professional with a deep understanding of technology, bridging the gap between strategic business goals and technical solutions. Over nine years of professional experience in Marketing, Sales, and Data Analysis have been accumulated across both the construction and technology industries, focusing on leveraging technical skills in Python, SQL, Power BI, Tableau, and SAP. Leadership has been demonstrated in managing cross-functional teams, improving processes, and delivering real-time data insights through digital solutions. \n Strong expertise in communication, team collaboration, and project management has contributed to successfully driving digital transformation and optimizing customer experiences. Planning and execution of agile projects have consistently resulted in enhanced business outcomes and team empowerment.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Binario"
+            "icon": "devicon-azuresqldatabase-plain",
+            "name": "SQL"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Ensamblador"
+            "icon": "devicon-microsoftsqlserver-plain",
+            "name": "SQL Server"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "COBOL"
-        },
-        {
-            "icon": "devicon-c-plain",
-            "name": "C"
+            "icon": "devicon-postgresql-plain",
+            "name": "Postgres"
         },
         {
             "icon": "devicon-python-plain",
             "name": "Python"
+        },
+        {
+            "icon": "devicon-pandas-plain",
+            "name": "Pandas"
+        },
+        {
+            "icon": "devicon-numpy-plain",
+            "name": "Numpy"
+        },
+        {
+            "icon": "devicon-matplotlib-plain",
+            "name": "Matplotlib"
+        },
+        {
+            "icon": "devicon-plotly-plain",
+            "name": "Power BI"
+        },
+        {
+            "icon": "devicon-plotly-plain",
+            "name": "Tableau"
+        },
+        {
+            "icon": "devicon-anaconda-original",
+            "name": "Anaconda"
+        },
+        {
+            "icon": "devicon-jupyter-plain",
+            "name": "Jupyter"
+        },
+        {
+            "icon": "devicon-git-plain",
+            "name": "Git"
+        },
+        {
+            "icon": "devicon-github-original",
+            "name": "Github"
+        },
+        {
+            "icon": "devicon-bash-plain",
+            "name": "Bash"
         }
     ],
     "experience": [
         {
-            "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+            "icon": "users-round",
+            "title": "Regional CX Project Manager | Data Analyst",
+            "subtitle": "Hilti | Panama",
+            "description": "I am leading strategic initiatives to enhance customer satisfaction across multiple markets, aligning them with corporate goals. I manage a Data Quality project involving over 50 stakeholders in Latin America, focusing on improving key SAP data fields to optimize the customer experience journey. Additionally, I have developed an ETL process using Python and SQL to collect and extract data from SAP, transforming it into actionable insights through real-time Power BI visualizations, ensuring data-driven decision-making.",
+            "date": "2023 - Present"
         },
         {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "icon": "shopping-cart",
+            "title": "Regional eCommerce Expert | Marketing Data Analyst",
+            "subtitle": "Hilti | Panama",
+            "description": "I was leading eCommerce strategies for six Latin American countries using agile methodologies, acting as the single point of contact (SPOC) for Global Product Owners in the region. I managed digital projects with JIRA to implement new features and improve the customer experience. I also led marketing automation efforts, creating and testing automated engagement campaigns to boost digital sales. Additionally, I developed data dashboards using SQL Server, Power BI, SAP BW, and Google Analytics to enable informed business decisions.",
+            "date": "2021 - 2023"
+        },
+        {
+            "icon": "smartphone",
+            "title": "Software Fild Specialist",
+            "subtitle": "Hilti | Chile",
+            "description": "I led the implementation of specialized construction software across four key management areas in Chile, enhancing client operations through digital solutions. By applying lean methodologies, I streamlined workflows and delivered measurable cost savings for clients. I also spearheaded digital transformation projects, introducing software tools that boosted productivity and reduced operational costs on job sites. Analyzing client needs, I calculated potential ROI and implemented tailored solutions. Additionally, I ensured seamless software adoption through effective project management, training, and ongoing support to maximize efficiency and operational effectiveness.",
+            "date": "2018 - 2021"
         }
     ],
     "projects": [
         {
-            "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "icon": "database",
+            "title": "Material Availability Tool",
+            "subtitle": "ETL Process for real-time information from SAP",
+            "description": "Collect, clean information with Python and upload datasets to SQL server to connect Power BI to display insights to internal customers",
             "technologies": [
+                {
+                    "icon": "devicon-microsoftsqlserver-plain",
+                    "name": "SQL Server"
+                },
                 {
                     "icon": "devicon-python-plain",
                     "name": "Python"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-plotly-plain",
+                    "name": "Power BI"
+                },
+                {
+                    "icon": "devicon-sanity-plain",
+                    "name": "SAP"
                 }
             ],
             "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "url": "https://github.com/jasonssdev/etl-python-mat",
+            "github": "https://github.com/jasonssdev/etl-python-mat"
         },
         {
-            "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "icon": "database",
+            "title": "Completed User Registration",
+            "subtitle": "Power BI Dashboard with users registration in eCommerce",
+            "description": "Power BI visualization for the sales team, displaying characteristics of registered users in each of their territories. All data was sourced from the company's Business Warehouse and stored in SQL Server.",
             "technologies": [
                 {
-                    "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "icon": "devicon-microsoftsqlserver-plain",
+                    "name": "SQL Server"
+                },
+                {
+                    "icon": "devicon-plotly-plain",
+                    "name": "Power BI"
                 }
             ],
             "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "url": "https://github.com/jasonssdev/etl-python-mat",
+            "github": "https://github.com/jasonssdev/sql-ecom-registration"
         }
     ],
     "training": [
         {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "icon": "school",
+            "title": "Bachelor of Business Administration",
+            "subtitle": "Universidad Central de Chile",
+            "description": "Business Strategy | Marketing Strategy | Finance.",
+            "date": "2022 - 2024",
+            "certificate": "https://www.linkedin.com/in/jasonsepulvedas/"
+        },
+        {
+            "icon": "school",
+            "title": "Business Administrator",
+            "subtitle": "Universidad Técnica Federico Santa María",
+            "description": "Maths | Economics | Statistics",
+            "date": "2012 - 2016",
+            "certificate": "https://www.linkedin.com/in/jasonsepulvedas/"
+        }
+    ],
+    "certification": [
+        {
+            "icon": "graduation-cap",
+            "title": "AI Introduction",
+            "subtitle": "Platzi",
+            "description": "ChatGPT | Artificial Intelligence.",
+            "date": "Sep 2024",
+            "certificate": "https://platzi.com/p/jasonssdev/ruta/21400-introduccion-ia/diploma/detalle/"
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "Introduction to Data Analytics",
+            "subtitle": "Meta",
+            "description": "SQL | Python | Data Analytics",
+            "date": "Sep 2024",
+            "certificate": "https://www.coursera.org/account/accomplishments/records/3Q3YUGRF7Y6L"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Python Course",
+            "subtitle": "Platzi",
+            "description": "Python | Virtual Environment",
+            "date": "Aug 2024",
+            "certificate": "https://platzi.com/p/jasonssdev/curso/10002-python/diploma/detalle/"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "EDA With Python",
+            "subtitle": "Platzi",
+            "description": "Python | Pandas | Jupyter",
+            "date": "Jul 2024",
+            "certificate": "https://platzi.com/p/jasonssdev/curso/3568-analisis-exploratorio-datos/diploma/detalle/"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Pandas and Numpy Data Manipulation",
+            "subtitle": "Platzi",
+            "description": "Python | Pandas | Numpy | Jupyter",
+            "date": "Jun 2024",
+            "certificate": "https://platzi.com/p/jasonssdev/curso/3568-analisis-exploratorio-datos/diploma/detalle/"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Visualization with Matplotlib and Seaborn",
+            "subtitle": "Platzi",
+            "description": "Python | Matplotlib | Seaborn | Jupyter",
+            "date": "Jun 2024",
+            "certificate": "https://platzi.com/p/jasonssdev/curso/2913-matplotlib-seaborn/diploma/detalle/"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Postgres Course",
+            "subtitle": "Platzi",
+            "description": "SQL | Postgres",
+            "date": "Jun 2024",
+            "certificate": "https://platzi.com/p/jasonssdev/curso/1480-postgresql/diploma/detalle/"
+        },
+        {
+            "icon": "graduation-cap",
+            "title": "Google Cloud Digital Leader Training",
+            "subtitle": "Google Cloud",
+            "description": "Google Cloud | Big Query",
+            "date": "Oct 2023",
+            "certificate": "https://www.coursera.org/account/accomplishments/specialization/LSSS8AHXQJRB"
         }
     ],
     "extras": [
