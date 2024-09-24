@@ -47,11 +47,11 @@ Automatic deployment [vercel.json](./vercel.json) y [build.sh](./build.sh).
 Over nine years of professional experience in Marketing, Sales, and Data Analysis have been accumulated across both the construction and technology industries, focusing on leveraging technical skills in Python, SQL, Power BI, Tableau, and SAP. Leadership has been demonstrated in managing cross-functional teams, improving processes, and delivering real-time data insights through digital solutions. **[@jasonssdev](https://jasonssdev.com)**.
 
 [![YouTube](https://img.shields.io/badge/Youtube-161616?style=for-the-badge&logo=youtube&logoColor=f1f1f1&labelColor=9966FF)](https://www.youtube.com/@jasonssdev)
-[![Instagram](https://img.shields.io/badge/Instagram-161616?style=for-the-badge&logo=instagram&logoColor=f1f1f1&labelColor=9966FF)](https://www.youtube.com/@jasonssdev)
+[![Instagram](https://img.shields.io/badge/Instagram-161616?style=for-the-badge&logo=instagram&logoColor=f1f1f1&labelColor=9966FF)](https://www.instagram.com/jasonssdev/)
 [![Twitch](https://img.shields.io/badge/Twitch-161616?style=for-the-badge&logo=twitch&logoColor=f1f1f1&labelColor=9966FF)](https://twitch.com/jasonssdev)
 [![Discord](https://img.shields.io/badge/Discord-161616?style=for-the-badge&logo=discord&logoColor=f1f1f1&labelColor=9966FF)](https://jasonssdev.com/discord)
 [![Twitter](https://img.shields.io/badge/X-161616?style=for-the-badge&logo=x&logoColor=f1f1f1&labelColor=9966FF)](https://x.com/jasonssdev)
-[![Tiktok](https://img.shields.io/badge/Tiktok-161616?style=for-the-badge&logo=tiktok&logoColor=f1f1f1&labelColor=9966FF)](https://www.youtube.com/@jasonssdev)
+[![Tiktok](https://img.shields.io/badge/Tiktok-161616?style=for-the-badge&logo=tiktok&logoColor=f1f1f1&labelColor=9966FF)](https://www.tiktok.com/@jasonssdev)
 [![GitHub](https://img.shields.io/badge/Github-161616?style=for-the-badge&logo=github&logoColor=f1f1f1&labelColor=9966FF)](https://github.com/jasonssdev)
 
 ### Thank you @Mouredev, he is the real owner of this code 
